@@ -1,0 +1,8 @@
+2024/04/15-08:58:39.158 15bc Reusing MANIFEST C:/Users/sheps/Documents/Unreal Projects/LuminoxV1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/15-08:58:39.159 15bc Recovering log #4
+2024/04/15-08:58:39.159 15bc Reusing old log C:/Users/sheps/Documents/Unreal Projects/LuminoxV1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/04/15-09:00:08.330 4024 Level-0 table #8: started
+2024/04/15-09:00:08.330 4024 Level-0 table #8: 0 bytes OK
+2024/04/15-09:00:08.336 4024 Delete type=0 #4
+2024/04/15-09:00:08.338 4024 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/04/15-09:00:08.338 4024 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
